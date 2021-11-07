@@ -1,7 +1,7 @@
 name: action_handler
 description: Action Handler Project.
-version: 1.0.1+1
-homepage: https://github.com/mobyleOfficial
+version: 1.0.1+2
+homepage: https://github.com/mobyleOfficial/action_handler
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
